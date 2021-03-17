@@ -1,5 +1,7 @@
 {
   "name": "qlsApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
